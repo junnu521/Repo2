@@ -1,10 +1,1 @@
- Volume in drive C is SOE
- Volume Serial Number is 4CE2-AAF7
-
- Directory of C:\Users\jmandapalli2\OneDrive - DXC Production\Desktop\Monica
-
-09/14/2020  10:32 PM    <DIR>          .
-09/14/2020  10:32 PM    <DIR>          ..
-09/14/2020  10:32 PM                 0 text1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  49,942,134,784 bytes free
+ Change 1
